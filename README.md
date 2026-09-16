@@ -1,2 +1,11 @@
 # Talleres-POO
-Daniel Alejandro Rincon Valenci a
+Universidad Nacional de Colombia-Sede Medellín
+
+Actividad 1
+Daniel Alejandro Rincon Valencia 
+Docente: Walter Hugo Arboleda Mazo
+
+
+
+
+
