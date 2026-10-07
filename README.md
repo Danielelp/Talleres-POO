@@ -3,7 +3,7 @@
 Talleres-POO
 Universidad Nacional de Colombia-Sede Medellín
 
-Actividad 1
+Actividades POO
 
 Daniel Alejandro Rincón Valencia
 
